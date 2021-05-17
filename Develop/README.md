@@ -1,6 +1,6 @@
-# Project
+# Professional README Generator
 ## Licensing:
-[![license](https://img.shields.io/badge/license-Apache,MIT-blue)](https://shields.io)
+[![license](https://img.shields.io/badge/license-None-blue)](https://shields.io)
 ## Table of Contents 
 - [Description](#description)
 - [Installation](#installation)
@@ -9,17 +9,17 @@
 - [Testing](#testing)
 - [Additional Info](#additional-info)
 ## Description:
-lorem
+Create a backend application that generates a professional ReadMe file based on prompts presented to the user 
 ## Installation:
-lorem
+
 ## Usage:
-lorem
+You use it through the command line
 ## License:
-Apache,MIT
+None
 ## Contribution:
-lorem
+
 ## Testing:
-lorem
+
 ## Additional Info:
-- Github: [lorem](https://github.com/lorem)
-- Email: lorem 
+- Github: [PacSmack](https://github.com/PacSmack)
+- Email: pacsmacck@gmail.com 
