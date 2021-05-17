@@ -10,16 +10,12 @@
 - [Additional Info](#additional-info)
 ## Description:
 Create a backend application that generates a professional ReadMe file based on prompts presented to the user 
-## Installation:
-
+## Demonstration Video
+https://drive.google.com/file/d/1bcBU5WoZnOKlqNN2_uEl2JS8cFugJuOt/view
 ## Usage:
 You use it through the command line
 ## License:
 None
-## Contribution:
-
-## Testing:
-
 ## Additional Info:
 - Github: [PacSmack](https://github.com/PacSmack)
 - Email: pacsmacck@gmail.com 
